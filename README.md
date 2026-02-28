@@ -46,7 +46,7 @@ Password:
 
 1. Clone the repository
 
-   git clone https://github.com/your-username/ecom-proj.git
+   git clone https://github.com/vantohi923/ecom-proj
 
 2. Open the project in an IDE (IntelliJ IDEA or Eclipse)
 
