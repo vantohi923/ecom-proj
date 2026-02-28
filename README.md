@@ -118,6 +118,9 @@ Through this project, I practiced:
 - using Spring Data JPA for persistence
 - working with an H2 in-memory database
 - testing endpoints using Postman
+## Acknowledgment
+
+This project was developed while following educational tutorials and was extended and customized for learning purposes.
 
 ## Author
 
